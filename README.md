@@ -9,22 +9,27 @@ I chose something simple and easy on the eyes as I'm not the best designer.  I f
 # Playing Locally
 Fork or download the repo and once saved locally open up `index.html` in your favorite browser.
 
+# Once Loaded
+Once loaded in your browser the page should look like:
+
+![Screenshot](img/Screenshot-of-site-in-browser.jpg)
+
 # Instructions
 * On load, the image displayed is a placeholder and will not count clicks
 * Choose a cat from the left menu
 * Click on the photo of your selected cat to incriment your count
 * Count is not reset upon selecting another cat
 
-# Required Dependencies 
+# Required Dependencies
 * There are no required dependencies.
 
-# Optional Dependencies 
+# Optional Dependencies
 * There are no optional dependencies.
 
 # Pull Requests
 I am the only contributor to this code (besdies the aforementioned credited sources) and the project is complete (I think).  There's not much to this project but if you feel the desire to contribute I won't say no.
 
-# Licensing 
+# Licensing
 This project is licensed under the [MIT License](https://github.com/JS-goose/cat-clicker/blob/master/LICENSE) and you are **free** to do the following with the code, subject to the conditions provided within the license found at the link above:
 * use
 * copy
